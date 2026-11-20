@@ -1,7 +1,8 @@
 {
-  "name": "my-site",
-  "compatibility_date": "2026-10-28",
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "vannary",
+  "compatibility_date": "2026-11-01",
   "assets": {
-    "directory": "./"
+    "directory": "./dist"
   }
 }
